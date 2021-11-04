@@ -1,0 +1,1 @@
+We designed The Probability Mathematical Model of Macau Gambling Slot Machine for Shangmei Studio, and used the pattern search and Monte Carlo algorithm to adjust the parameters.
